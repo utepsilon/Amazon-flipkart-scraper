@@ -27,7 +27,7 @@ The scraper will start running, and you can observe its progress and output in t
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#To-install-MongoDB-on-your-local-machine-follow-these-steps:
+# To install MongoDB on your local machine follow these steps:
 
 Step 1: Visit the MongoDB website
 Go to the official MongoDB website at mongodb.com.
