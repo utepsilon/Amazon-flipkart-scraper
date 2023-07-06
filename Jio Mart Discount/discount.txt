@@ -1,0 +1,3 @@
+50@https://www.jiomart.com/c/electronics/mobiles-tablets/smartphones/777?prod_mart_electronics_products_popularity%5Brange%5D%5Bavg_discount_pct%5D=50%3A
+50@https://www.jiomart.com/c/electronics/computers/laptops/775?prod_mart_electronics_products_popularity%5Brange%5D%5Bavg_discount_pct%5D=50%3A
+40@https://www.jiomart.com/c/electronics/mobiles-tablets/wearable-technology/772?prod_mart_electronics_products_popularity%5Brange%5D%5Bavg_discount_pct%5D=40%3A
